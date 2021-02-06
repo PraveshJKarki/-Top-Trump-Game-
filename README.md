@@ -1,4 +1,4 @@
-# github-upload
+# "Top Trump Game"
  * This application will have 5 classes in
  * total ( including main ). One class is a deque. It is a
  * double ended queue where both insertion and delection is
