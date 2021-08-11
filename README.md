@@ -1,7 +1,7 @@
+<img width="966" alt="Screen Shot 2021-08-11 at 10 05 03 AM" src="https://user-images.githubusercontent.com/66974284/129072272-5b525b76-3e2d-4dc1-ac05-4587ce45ed33.png">
 # "Top Trump Game"
-This application will have 5 classes in  total ( including main ). One class is a deque. It is a double ended queue where both insertion and delection is
-possible from both end. So, with the help of deque I have create stack and queue class. There is one more class which is a customer class that
-helps us to crete a deck of a customer. So, wee will provide 3 option for the user. Option one will provide the option to the user where they can manipulate queue, stack and deque as per their needs. Option two is a game "Top Trump" and option three contains the option to exit the program.
+<img width="935" alt="Screen Shot 2021-08-11 at 10 08 07 AM" src="https://user-images.githubusercontent.com/66974284/129072848-2b994908-4662-4b2e-89eb-363a06a8fbe0.png">
+
 
 Here are some of the sample of running the program. 
 
