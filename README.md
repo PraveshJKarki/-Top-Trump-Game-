@@ -33,9 +33,13 @@ Here are some of the sample of running the program.
 
 
 
+********************************If from the main-menu user selects options 2 then it will direct the user to play the card game "TOP-TRUMP" which will start by showing the 15 greek heros crad that the payer has received and is in players hand.*******************************************************>
+
 
 <img width="1099" alt="Screen Shot 2021-08-11 at 9 35 59 AM" src="https://user-images.githubusercontent.com/66974284/129069734-b88bf6e0-1dee-424a-a016-857ec045df0e.png">
 
+
+************************** Now the user will selct the catagory to compare the value with ************************************************************
 
 <img width="960" alt="Screen Shot 2021-08-11 at 9 37 03 AM" src="https://user-images.githubusercontent.com/66974284/129069736-56261c53-7986-4383-8c9f-c7506e773304.png">
 
@@ -43,6 +47,7 @@ Here are some of the sample of running the program.
 <img width="964" alt="Screen Shot 2021-08-11 at 9 37 25 AM" src="https://user-images.githubusercontent.com/66974284/129069740-8b12d5a1-3768-47eb-86e2-f9488de35b8c.png">
 
 
+*********************** Finally the winner is decided and the game will brings us back to the main menu *********************************************
 <img width="1261" alt="Screen Shot 2021-08-11 at 9 37 51 AM" src="https://user-images.githubusercontent.com/66974284/129069741-45de91be-b208-4005-a8f3-6cc8a337d4a7.png">
 
 
