@@ -1,6 +1,7 @@
 
 # "Top Trump Game"
-<img width="935" alt="Screen Shot 2021-08-11 at 10 08 07 AM" src="https://user-images.githubusercontent.com/66974284/129072848-2b994908-4662-4b2e-89eb-363a06a8fbe0.png">
+<img width="937" alt="Screen Shot 2021-08-11 at 10 10 33 AM" src="https://user-images.githubusercontent.com/66974284/129073144-e59cf5d1-cd37-4323-8738-cae4c0de8f86.png">
+
 
 
 Here are some of the sample of running the program. 
