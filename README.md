@@ -1,4 +1,4 @@
-<img width="966" alt="Screen Shot 2021-08-11 at 10 05 03 AM" src="https://user-images.githubusercontent.com/66974284/129072272-5b525b76-3e2d-4dc1-ac05-4587ce45ed33.png">
+
 # "Top Trump Game"
 <img width="935" alt="Screen Shot 2021-08-11 at 10 08 07 AM" src="https://user-images.githubusercontent.com/66974284/129072848-2b994908-4662-4b2e-89eb-363a06a8fbe0.png">
 
