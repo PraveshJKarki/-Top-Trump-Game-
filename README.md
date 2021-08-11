@@ -5,9 +5,11 @@ helps us to crete a deck of a customer. So, wee will provide 3 option for the us
 
 Here are some of the sample of running the program. 
 
+
+<********************************** This is the welcome page which shows three different options to choose from. *******************************>
 <img width="1130" alt="Screen Shot 2021-08-11 at 9 33 48 AM" src="https://user-images.githubusercontent.com/66974284/129069721-0680fd54-d67a-4797-b5ec-2ce733fecae2.png">
 
-
+<******************If the user selects the option 1 then the game will show the user to manipulate either Deque, Queue or Stack. *******************************>
 <img width="1121" alt="Screen Shot 2021-08-11 at 9 34 29 AM" src="https://user-images.githubusercontent.com/66974284/129069725-c44ea1a5-2c62-4281-8feb-97685e0220e9.png">
 
 
